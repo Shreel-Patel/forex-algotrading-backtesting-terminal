@@ -95,12 +95,6 @@ Once the bot is up and running, it will:
 
 You can view real-time updates and performance in the frontend, and export data to Excel for further analysis.
 
-## Demo
-
-Here’s a quick demo of the bot in action:
-
-![Project Demo](link-to-demo.gif)  
-_(Include screenshots or a GIF demonstrating the bot’s functionality, frontend, or visualizations)_
 
 ## Future Enhancements
 - **Advanced Strategy Implementation**: Add more sophisticated trading strategies.
@@ -108,9 +102,5 @@ _(Include screenshots or a GIF demonstrating the bot’s functionality, frontend
 - **User Authentication**: Secure the frontend for multiple users with login functionality.
 - **API Integration**: Enhance real-time data accuracy using third-party APIs (e.g., Forex API).
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-You can copy and paste this into your `README.md` file. You should also add any additional details that reflect your project more accurately, like a demo video link or further technical explanations. Let me know if you'd like help with any specific sections!
